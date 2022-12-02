@@ -1,2 +1,3 @@
 # codeacademy-open-source
-Code Academy Project for OpenSource
+
+Code Academy Project for Open Source
